@@ -59,19 +59,8 @@
 
 ---
 
-### 🔗 Check out my GitHub repositories:
-<div>
-  <p>
-    <a href="https://github.com/bhanuudhay/Mystic-Number-Hunt">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhanuudhay&repo=Mystic-Number-Hunt" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/bhanuudhay/JAVA_SCRIPT-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhanuudhay&repo=JAVA_SCRIPT-" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
----
-
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuudhay&" alt="bhanuudhay" /></p>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
