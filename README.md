@@ -59,7 +59,10 @@
 
 ---
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuudhay&" alt="bhanuudhay" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuudhay&" alt="bhanuudhay" />
+<img align="right" alt="Coding" width="400" height = "200px" src="https://cdn.dribbble.com/users/594393/screenshots/3538157/dinoctocat-01.png?format=webp&resize=400x300&vertical=center">
+</p>
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
