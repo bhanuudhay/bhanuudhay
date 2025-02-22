@@ -61,7 +61,10 @@
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuudhay&" alt="bhanuudhay" />
 </p>
-
+<p align="right" >
+  <h4> WakaTime Coding </h4>
+ <p> ReactJs </p> <a href="https://wakatime.com/badge/github/bhanuudhay/bhanuudhay"><img src="https://wakatime.com/badge/github/bhanuudhay/bhanuudhay.svg" alt="wakatime"></a>
+</p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
