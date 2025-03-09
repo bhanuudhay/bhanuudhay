@@ -62,7 +62,7 @@
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuudhay&" alt="bhanuudhay" />
 </p>
 <p align="right" >
-  <h4> WakaTime Coding Hours :- </h4>
+  <h4> WakaTime Coding Hours <a href="https://wakatime.com/@5d83bac1-a02a-4192-9831-47b095ec4ea6"><img src="https://wakatime.com/badge/user/5d83bac1-a02a-4192-9831-47b095ec4ea6.svg" alt="Total time coded since Jan 31 2025" /></a> </h4>
  <p> ReactJs </p> <a href="https://wakatime.com/badge/github/bhanuudhay/bhanuudhay"><img src="https://wakatime.com/badge/github/bhanuudhay/bhanuudhay.svg" alt="wakatime"></a>
  <p> NodeJs and ExpressJS  </p> <a href="https://wakatime.com/badge/user/5d83bac1-a02a-4192-9831-47b095ec4ea6/project/acd1d6fc-92e6-47ad-8e08-3fa9c6d15e14"><img src="https://wakatime.com/badge/user/5d83bac1-a02a-4192-9831-47b095ec4ea6/project/acd1d6fc-92e6-47ad-8e08-3fa9c6d15e14.svg" alt="wakatime"></a>
   <p> JavaScript </p><a href="https://wakatime.com/badge/user/5d83bac1-a02a-4192-9831-47b095ec4ea6/project/1c2891fe-40c9-4f9e-bf9e-08bb537d61e4"><img src="https://wakatime.com/badge/user/5d83bac1-a02a-4192-9831-47b095ec4ea6/project/1c2891fe-40c9-4f9e-bf9e-08bb537d61e4.svg" alt="wakatime"></a>
