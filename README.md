@@ -59,6 +59,11 @@
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
        alt="Tailwind CSS" width="40" height="40"/></a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" 
+       alt="Hibernate" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
