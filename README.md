@@ -51,12 +51,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" 
        alt="npm" width="40" height="40"/>
 </a>
+  
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-</p>
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+  <a href="https://www.netlify.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg" 
+       alt="Netlify" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
-       alt="Tailwind CSS" width="40" height="40"/>
-</a>
+       alt="Tailwind CSS" width="40" height="40"/></a>
+       <a href="https://render.com" target="_blank" rel="noreferrer">
+  <img src="" 
+       alt="Render" width="40" height="40"/></a>
+</p>
 
 ---
 
