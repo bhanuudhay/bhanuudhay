@@ -8,8 +8,8 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on **MERN Stack** projects.
-- 🌱 I’m currently learning **JavaScript** and **MERN**.
-- 💬 Feel free to ask me about **C++, Java, and DSA**.
+- 🌱 I’m currently learning **TypeScript** and **ReactJs**.
+- 💬 Feel free to ask me about **JavaScript , C++, Java, and DSA**.
 - 📫 Reach me at **[udhaybhanu3@gmail.com](mailto:udhaybhanu3@gmail.com)**.
 - ⚡ Fun fact: **Code is like humor; when you have to explain it, it’s bad.**
 
