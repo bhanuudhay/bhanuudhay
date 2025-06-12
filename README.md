@@ -8,7 +8,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on Automation and FASTAPI.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **fastapi
 - 💬 Feel free to ask me about **JavaScript , C++, Java, n8n , and DSA**.
 - 📫 Reach me at **[udhaybhanu3@gmail.com](mailto:udhaybhanu3@gmail.com)**.
 - ⚡ Fun fact: **Code is like humor; when you have to explain it, it’s bad.**
