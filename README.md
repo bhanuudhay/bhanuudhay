@@ -82,6 +82,12 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
 </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes" width="40" height="40"/>
+</a>
+<a href="https://goauthentik.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/goauthentik/authentik/main/website/static/img/icon.png" alt="Authentik" width="40" height="40"/>
+</a>
 
 
 </p>
