@@ -186,7 +186,3 @@
 <p align="right" >
   <h4> WakaTime Coding Hours <a href="https://wakatime.com/@5d83bac1-a02a-4192-9831-47b095ec4ea6"><img src="https://wakatime.com/badge/user/5d83bac1-a02a-4192-9831-47b095ec4ea6.svg" alt="Total time coded since Jan 31 2025" /></a> </h4>
 
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
