@@ -7,11 +7,23 @@
 </p>
 
 ### 🌟 About Me
-- 🔭 I’m currently working on Automation and FASTAPI.
-- 🌱 I’m currently learning **fastapi**
-- 💬 Feel free to ask me about **JavaScript , C++, Java, n8n , and DSA**.
+- 🔭 I’m currently building **developer tooling and AI agents** — CLI tooling, code-intelligence engines, and incident-response automation.
+- 🌱 I’m currently going deeper into **agent architectures, Tree-sitter, and distributed systems**.
+- 💬 Feel free to ask me about **JavaScript, TypeScript, Python, FastAPI, Node.js, n8n, and DSA**.
 - 📫 Reach me at **[udhaybhanu3@gmail.com](mailto:udhaybhanu3@gmail.com)**.
 - ⚡ Fun fact: **Code is like humor; when you have to explain it, it’s bad.**
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+| --- | --- |
+| **[claudex](https://github.com/bhanuudhay/claudex)** | Drop-in wrapper for the Claude CLI that fails over between configured accounts on usage limits, rate limits and auth errors. TypeScript, zero runtime dependencies. |
+| **[Synapse](https://github.com/bhanuudhay/Synapse)** | IncidentPilot — takes a production incident from Slack alert to merged PR: replicates data safely, understands the codebase with Tree-sitter, investigates with a Claude-powered agent, validates the patch. |
+| **[Intelli-Repo](https://github.com/bhanuudhay/Intelli-Repo)** | Repository intelligence engine building semantic understanding of a codebase with Tree-sitter, dependency graphs and hybrid search, so LLM assistants retrieve only what a task needs. |
+| **[Streamlyx](https://github.com/bhanuudhay/Streamlyx)** | Movie streaming platform — FastAPI backend, Next.js frontend, R2 + Cloudflare CDN delivery. |
+| **[DataShuttle](https://github.com/bhanuudhay/DataShuttle)** | Preview, copy and migrate large MongoDB collections across instances using parallel batch processing. Next.js + FastAPI. |
 
 ---
 
