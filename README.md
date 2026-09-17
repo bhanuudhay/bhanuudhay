@@ -201,12 +201,6 @@
 
 <p align="center">
   <a href="https://wakatime.com/@5d83bac1-a02a-4192-9831-47b095ec4ea6">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=5d83bac1-a02a-4192-9831-47b095ec4ea6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&range=all_time&custom_title=WakaTime%20%E2%80%94%20All%20Time" alt="WakaTime all-time language breakdown" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@5d83bac1-a02a-4192-9831-47b095ec4ea6">
     <img src="https://raw.githubusercontent.com/bhanuudhay/bhanuudhay/main/assets/wakatime-heatmap.svg?v=2" alt="WakaTime activity last year" />
   </a>
 </p>
