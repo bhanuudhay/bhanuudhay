@@ -207,7 +207,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@5d83bac1-a02a-4192-9831-47b095ec4ea6">
-    <img src="https://raw.githubusercontent.com/bhanuudhay/bhanuudhay/main/assets/wakatime-heatmap.svg" alt="WakaTime activity last year" />
+    <img src="https://raw.githubusercontent.com/bhanuudhay/bhanuudhay/main/assets/wakatime-heatmap.svg?v=2" alt="WakaTime activity last year" />
   </a>
 </p>
 
