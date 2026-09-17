@@ -205,6 +205,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@5d83bac1-a02a-4192-9831-47b095ec4ea6">
+    <img src="https://raw.githubusercontent.com/bhanuudhay/bhanuudhay/main/assets/wakatime-heatmap.svg" alt="WakaTime activity last year" />
+  </a>
+</p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C309%20hrs%2037%20mins-blue?style=flat)
 
