@@ -197,6 +197,18 @@
 </p>
 <p align="right" >
   <h4> WakaTime Coding Hours <a href="https://wakatime.com/@5d83bac1-a02a-4192-9831-47b095ec4ea6"><img src="https://wakatime.com/badge/user/5d83bac1-a02a-4192-9831-47b095ec4ea6.svg" alt="Total time coded since Jan 31 2025" /></a> </h4>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@5d83bac1-a02a-4192-9831-47b095ec4ea6">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=5d83bac1-a02a-4192-9831-47b095ec4ea6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&range=all_time&custom_title=WakaTime%20%E2%80%94%20All%20Time" alt="WakaTime all-time language breakdown" />
+  </a>
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
 <picture>
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bhanuudhay/bhanuudhay/output/pacman-contribution-graph.svg">
 </picture>
