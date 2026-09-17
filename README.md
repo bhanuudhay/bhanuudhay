@@ -186,13 +186,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanuudhay&show_icons=true&locale=en&layout=compact" alt="bhanuudhay" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanuudhay&show_icons=true&locale=en" alt="bhanuudhay" /></p>
-
----
-
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuudhay&" alt="bhanuudhay" />
 </p>
 <p align="right" >
