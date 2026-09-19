@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="743" height="155" viewBox="0 0 743 155" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <rect width="743" height="155" rx="6" fill="#0d1117"/>
 <text x="34" y="18" fill="#c9d1d9" font-size="12" font-weight="600" letter-spacing="0.6">ACTIVITY LAST YEAR</text>
-<text x="723" y="18" fill="#8b949e" font-size="11" text-anchor="end">1,526 hrs</text>
+<text x="723" y="18" fill="#8b949e" font-size="11" text-anchor="end">1,523 hrs</text>
 <text x="34" y="30" fill="#8b949e" font-size="10">Sep</text>
 <text x="112" y="30" fill="#8b949e" font-size="10">Nov</text>
 <text x="177" y="30" fill="#8b949e" font-size="10">Dec</text>
@@ -22,7 +22,7 @@
 <rect x="34" y="64" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-16: no activity</title></rect>
 <rect x="34" y="77" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-17: no activity</title></rect>
 <rect x="34" y="90" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-18: no activity</title></rect>
-<rect x="34" y="103" width="11" height="11" rx="2" fill="#9dbde0"><title>2025-09-19: 6.9 hrs</title></rect>
+<rect x="34" y="103" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-19: no activity</title></rect>
 <rect x="34" y="116" width="11" height="11" rx="2" fill="#3a6698"><title>2025-09-20: 2.4 hrs</title></rect>
 <rect x="47" y="38" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-21: no activity</title></rect>
 <rect x="47" y="51" width="11" height="11" rx="2" fill="#e9f1fb"><title>2025-09-22: 8.7 hrs</title></rect>
@@ -386,7 +386,8 @@
 <rect x="710" y="64" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-09-15: 5.5 hrs</title></rect>
 <rect x="710" y="77" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-09-16: 9.8 hrs</title></rect>
 <rect x="710" y="90" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-09-17: 8.7 hrs</title></rect>
-<rect x="710" y="103" width="11" height="11" rx="2" fill="#28486c"><title>2026-09-18: 2.4 hrs</title></rect>
+<rect x="710" y="103" width="11" height="11" rx="2" fill="#9dbde0"><title>2026-09-18: 5.9 hrs</title></rect>
+<rect x="710" y="116" width="11" height="11" rx="2" fill="#28486c"><title>2026-09-19: 0.0 hrs</title></rect>
 <text x="583" y="147" fill="#8b949e" font-size="10">Less</text>
 <rect x="611" y="138" width="11" height="11" rx="2" fill="#1b2027"/>
 <rect x="624" y="138" width="11" height="11" rx="2" fill="#28486c"/>
