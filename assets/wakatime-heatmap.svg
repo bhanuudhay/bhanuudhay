@@ -21,7 +21,7 @@
 <rect x="34" y="51" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-22: no activity</title></rect>
 <rect x="34" y="64" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-23: no activity</title></rect>
 <rect x="34" y="77" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-24: no activity</title></rect>
-<rect x="34" y="90" width="11" height="11" rx="2" fill="#e9f1fb"><title>2025-09-25: 9.1 hrs</title></rect>
+<rect x="34" y="90" width="11" height="11" rx="2" fill="#1b2027"><title>2025-09-25: no activity</title></rect>
 <rect x="34" y="103" width="11" height="11" rx="2" fill="#e9f1fb"><title>2025-09-26: 12.3 hrs</title></rect>
 <rect x="34" y="116" width="11" height="11" rx="2" fill="#28486c"><title>2025-09-27: 0.9 hrs</title></rect>
 <rect x="47" y="38" width="11" height="11" rx="2" fill="#28486c"><title>2025-09-28: 0.4 hrs</title></rect>
@@ -256,7 +256,7 @@
 <rect x="463" y="103" width="11" height="11" rx="2" fill="#28486c"><title>2026-05-15: 2.0 hrs</title></rect>
 <rect x="463" y="116" width="11" height="11" rx="2" fill="#1b2027"><title>2026-05-16: no activity</title></rect>
 <rect x="476" y="38" width="11" height="11" rx="2" fill="#1b2027"><title>2026-05-17: no activity</title></rect>
-<rect x="476" y="51" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-05-18: 3.9 hrs</title></rect>
+<rect x="476" y="51" width="11" height="11" rx="2" fill="#3a6698"><title>2026-05-18: 3.9 hrs</title></rect>
 <rect x="476" y="64" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-05-19: 8.5 hrs</title></rect>
 <rect x="476" y="77" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-05-20: 5.2 hrs</title></rect>
 <rect x="476" y="90" width="11" height="11" rx="2" fill="#28486c"><title>2026-05-21: 1.9 hrs</title></rect>
@@ -385,7 +385,8 @@
 <rect x="710" y="51" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-09-21: 5.4 hrs</title></rect>
 <rect x="710" y="64" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-09-22: 8.1 hrs</title></rect>
 <rect x="710" y="77" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-09-23: 5.5 hrs</title></rect>
-<rect x="710" y="90" width="11" height="11" rx="2" fill="#3a6698"><title>2026-09-24: 2.8 hrs</title></rect>
+<rect x="710" y="90" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-09-24: 7.8 hrs</title></rect>
+<rect x="710" y="103" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-09-25: 3.9 hrs</title></rect>
 <text x="583" y="147" fill="#8b949e" font-size="10">Less</text>
 <rect x="611" y="138" width="11" height="11" rx="2" fill="#1b2027"/>
 <rect x="624" y="138" width="11" height="11" rx="2" fill="#28486c"/>
