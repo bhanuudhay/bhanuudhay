@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="743" height="155" viewBox="0 0 743 155" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <rect width="743" height="155" rx="6" fill="#0d1117"/>
 <text x="34" y="18" fill="#c9d1d9" font-size="12" font-weight="600" letter-spacing="0.6">ACTIVITY LAST YEAR</text>
-<text x="723" y="18" fill="#8b949e" font-size="11" text-anchor="end">1,498 hrs</text>
+<text x="723" y="18" fill="#8b949e" font-size="11" text-anchor="end">1,492 hrs</text>
 <text x="34" y="30" fill="#8b949e" font-size="10">Oct</text>
 <text x="73" y="30" fill="#8b949e" font-size="10">Nov</text>
 <text x="138" y="30" fill="#8b949e" font-size="10">Dec</text>
@@ -23,7 +23,7 @@
 <rect x="34" y="64" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-07: no activity</title></rect>
 <rect x="34" y="77" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-08: no activity</title></rect>
 <rect x="34" y="90" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-09: no activity</title></rect>
-<rect x="34" y="103" width="11" height="11" rx="2" fill="#9dbde0"><title>2025-10-10: 6.3 hrs</title></rect>
+<rect x="34" y="103" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-10: no activity</title></rect>
 <rect x="34" y="116" width="11" height="11" rx="2" fill="#3a6698"><title>2025-10-11: 3.0 hrs</title></rect>
 <rect x="47" y="38" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-12: no activity</title></rect>
 <rect x="47" y="51" width="11" height="11" rx="2" fill="#e9f1fb"><title>2025-10-13: 8.0 hrs</title></rect>
@@ -86,7 +86,7 @@
 <rect x="151" y="64" width="11" height="11" rx="2" fill="#9dbde0"><title>2025-12-09: 6.3 hrs</title></rect>
 <rect x="151" y="77" width="11" height="11" rx="2" fill="#3a6698"><title>2025-12-10: 2.7 hrs</title></rect>
 <rect x="151" y="90" width="11" height="11" rx="2" fill="#9dbde0"><title>2025-12-11: 6.5 hrs</title></rect>
-<rect x="151" y="103" width="11" height="11" rx="2" fill="#5b89bd"><title>2025-12-12: 5.5 hrs</title></rect>
+<rect x="151" y="103" width="11" height="11" rx="2" fill="#9dbde0"><title>2025-12-12: 5.5 hrs</title></rect>
 <rect x="151" y="116" width="11" height="11" rx="2" fill="#28486c"><title>2025-12-13: 1.9 hrs</title></rect>
 <rect x="164" y="38" width="11" height="11" rx="2" fill="#1b2027"><title>2025-12-14: no activity</title></rect>
 <rect x="164" y="51" width="11" height="11" rx="2" fill="#3a6698"><title>2025-12-15: 3.4 hrs</title></rect>
@@ -285,7 +285,7 @@
 <rect x="515" y="103" width="11" height="11" rx="2" fill="#28486c"><title>2026-06-26: 0.8 hrs</title></rect>
 <rect x="515" y="116" width="11" height="11" rx="2" fill="#1b2027"><title>2026-06-27: no activity</title></rect>
 <rect x="528" y="38" width="11" height="11" rx="2" fill="#1b2027"><title>2026-06-28: no activity</title></rect>
-<rect x="528" y="51" width="11" height="11" rx="2" fill="#28486c"><title>2026-06-29: 2.3 hrs</title></rect>
+<rect x="528" y="51" width="11" height="11" rx="2" fill="#3a6698"><title>2026-06-29: 2.3 hrs</title></rect>
 <rect x="528" y="64" width="11" height="11" rx="2" fill="#28486c"><title>2026-06-30: 1.6 hrs</title></rect>
 <rect x="528" y="77" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-07-01: 5.2 hrs</title></rect>
 <rect x="528" y="90" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-07-02: 7.9 hrs</title></rect>
@@ -387,7 +387,8 @@
 <rect x="710" y="64" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-10-06: 4.8 hrs</title></rect>
 <rect x="710" y="77" width="11" height="11" rx="2" fill="#3a6698"><title>2026-10-07: 2.6 hrs</title></rect>
 <rect x="710" y="90" width="11" height="11" rx="2" fill="#28486c"><title>2026-10-08: 2.3 hrs</title></rect>
-<rect x="710" y="103" width="11" height="11" rx="2" fill="#3a6698"><title>2026-10-09: 2.7 hrs</title></rect>
+<rect x="710" y="103" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-10-09: 3.9 hrs</title></rect>
+<rect x="710" y="116" width="11" height="11" rx="2" fill="#28486c"><title>2026-10-10: 0.0 hrs</title></rect>
 <text x="583" y="147" fill="#8b949e" font-size="10">Less</text>
 <rect x="611" y="138" width="11" height="11" rx="2" fill="#1b2027"/>
 <rect x="624" y="138" width="11" height="11" rx="2" fill="#28486c"/>
