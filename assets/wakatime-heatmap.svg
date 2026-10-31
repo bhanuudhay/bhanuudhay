@@ -22,7 +22,7 @@
 <rect x="34" y="64" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-28: no activity</title></rect>
 <rect x="34" y="77" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-29: no activity</title></rect>
 <rect x="34" y="90" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-30: no activity</title></rect>
-<rect x="34" y="103" width="11" height="11" rx="2" fill="#9dbde0"><title>2025-10-31: 6.5 hrs</title></rect>
+<rect x="34" y="103" width="11" height="11" rx="2" fill="#1b2027"><title>2025-10-31: no activity</title></rect>
 <rect x="34" y="116" width="11" height="11" rx="2" fill="#3a6698"><title>2025-11-01: 3.3 hrs</title></rect>
 <rect x="47" y="38" width="11" height="11" rx="2" fill="#e9f1fb"><title>2025-11-02: 7.9 hrs</title></rect>
 <rect x="47" y="51" width="11" height="11" rx="2" fill="#9dbde0"><title>2025-11-03: 6.5 hrs</title></rect>
@@ -122,7 +122,7 @@
 <rect x="216" y="90" width="11" height="11" rx="2" fill="#3a6698"><title>2026-02-05: 2.3 hrs</title></rect>
 <rect x="216" y="103" width="11" height="11" rx="2" fill="#3a6698"><title>2026-02-06: 3.5 hrs</title></rect>
 <rect x="216" y="116" width="11" height="11" rx="2" fill="#1b2027"><title>2026-02-07: no activity</title></rect>
-<rect x="229" y="38" width="11" height="11" rx="2" fill="#3a6698"><title>2026-02-08: 3.8 hrs</title></rect>
+<rect x="229" y="38" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-02-08: 3.8 hrs</title></rect>
 <rect x="229" y="51" width="11" height="11" rx="2" fill="#3a6698"><title>2026-02-09: 2.7 hrs</title></rect>
 <rect x="229" y="64" width="11" height="11" rx="2" fill="#9dbde0"><title>2026-02-10: 7.6 hrs</title></rect>
 <rect x="229" y="77" width="11" height="11" rx="2" fill="#3a6698"><title>2026-02-11: 2.3 hrs</title></rect>
@@ -382,11 +382,12 @@
 <rect x="697" y="103" width="11" height="11" rx="2" fill="#28486c"><title>2026-10-23: 2.3 hrs</title></rect>
 <rect x="697" y="116" width="11" height="11" rx="2" fill="#9dbde0"><title>2026-10-24: 6.9 hrs</title></rect>
 <rect x="710" y="38" width="11" height="11" rx="2" fill="#3a6698"><title>2026-10-25: 3.6 hrs</title></rect>
-<rect x="710" y="51" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-10-26: 7.6 hrs</title></rect>
+<rect x="710" y="51" width="11" height="11" rx="2" fill="#9dbde0"><title>2026-10-26: 7.6 hrs</title></rect>
 <rect x="710" y="64" width="11" height="11" rx="2" fill="#9dbde0"><title>2026-10-27: 6.0 hrs</title></rect>
 <rect x="710" y="77" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-10-28: 8.1 hrs</title></rect>
 <rect x="710" y="90" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-10-29: 8.1 hrs</title></rect>
-<rect x="710" y="103" width="11" height="11" rx="2" fill="#5b89bd"><title>2026-10-30: 4.1 hrs</title></rect>
+<rect x="710" y="103" width="11" height="11" rx="2" fill="#e9f1fb"><title>2026-10-30: 8.4 hrs</title></rect>
+<rect x="710" y="116" width="11" height="11" rx="2" fill="#3a6698"><title>2026-10-31: 2.3 hrs</title></rect>
 <text x="583" y="147" fill="#8b949e" font-size="10">Less</text>
 <rect x="611" y="138" width="11" height="11" rx="2" fill="#1b2027"/>
 <rect x="624" y="138" width="11" height="11" rx="2" fill="#28486c"/>
